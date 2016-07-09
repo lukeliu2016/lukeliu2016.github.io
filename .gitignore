@@ -1,0 +1,23 @@
+/node_modules/
+/components/
+/bower_components/
+/dist/
+/build/
+/bin/
+
+# OS X
+.DS_Store
+
+# IntelliJ stuff
+/.idea/
+*.iml
+
+# Auto-added patterns
+/.svn/
+/log/*.log
+*.log
+/tmp/**
+/.sass-cache/
+
+# Jekyll Tmp File
+_site/
