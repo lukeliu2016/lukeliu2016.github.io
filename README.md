@@ -1,3 +1,3 @@
-# Blog Site for EQXIU team
+# Blog Site for Me
 
-See the result at: http://eqxiu.github.io/
+See the result at: http://lukeliu2016.github.io/
