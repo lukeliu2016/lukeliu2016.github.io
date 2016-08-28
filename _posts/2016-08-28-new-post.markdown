@@ -5,6 +5,7 @@ author:    luke
 date:      2016-08-28 16:14:00 +0800
 categories: notes
 tags:       日志
+mediaImage: images/jekyll-blog.png
 excerpt:    New Title
 ---
 
